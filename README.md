@@ -1,9 +1,8 @@
 # listas-de-compras
-<<<<<<< HEAD
-comida michi
+
+## comida michi
+
 -
--
-=======
 
 # Para ir a comer
 
@@ -11,4 +10,3 @@ comida michi
 - Nose
 - Si
   ~ Virgulilla
->>>>>>> release/virgulilla
