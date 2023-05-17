@@ -1,4 +1,4 @@
 # listas-de-compras
-comida michi
--
--
+Soldador
+Guantes de seguridad
+Tecnologías de varillas
